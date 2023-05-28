@@ -10,7 +10,7 @@ body {
 }
 .card {
   padding: 1em;
-  max-width: 16em;
+  max-width: 18em;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
   display: flex;
@@ -19,7 +19,7 @@ body {
   align-items: center;
 }
 img {
-  max-height: 16em;
+  max-height: 18em;
   aspect-ratio: 1/1;
   border-radius: 10px;
 }

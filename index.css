@@ -18,16 +18,20 @@ body {
   justify-content: space-evenly;
   align-items: center;
 }
+.card-body {
+    padding: 0em .8em 0em .8em;
+  }
 img {
   max-height: 18em;
   aspect-ratio: 1/1;
   border-radius: 10px;
 }
-h3 {
+h1 {
   color: hsl(218, 44%, 22%);
   font-weight: 700;
   text-align: center;
   width: 100%;
+  font-size: 23px;
 }
 p {
   font-size: 15px;
